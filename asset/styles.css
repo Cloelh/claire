@@ -1,0 +1,144 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.content{
+    background-color: #151515;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.page{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    min-height: 100vh;
+}
+.marge{
+    padding-right: 250px;
+    padding-left: 250px;
+}
+
+h1{
+    font-size: 4.5em !important;
+}
+
+p{
+    font-size: 1.3em;
+    font-weight: 300;
+}
+
+/* HOME */
+.home .imageBanner{
+    background-image:url('../asset/images/IMG_6353.png');
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    width: 300px;
+    content: " ";
+}
+
+.home .presentation{
+    margin-bottom: 100px;
+}
+
+.home .bannVideo{
+    background-color: #7877E6;
+    height: 30vh;
+}
+
+
+
+/* PAGE */
+.bannPage{
+    height: 20vh;
+}
+    .bannPage h2{
+        font-size: 3em;
+        font-weight: 300;
+    }
+
+    .bannPage .underline{
+        content: " ";
+        height: 2px;
+        width: 70%;
+        background-color: white;
+    }
+
+/* photo */
+.grid-container {
+    height: 450vh;
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr 0.8fr 1.2fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 40px 40px;
+    grid-template-areas:
+      "fluide1 couple1 couple1 couple1"
+      "couple2 couple2 sophie sophie"
+      "couple3 couple3 couple3 appoline"
+      "nolwenn1 groupe groupe groupe"
+      "ciel1 ciel1 nolwenn2 nolwenn2"
+      "fluide2 couple4 couple4 couple4"
+      "ciel2 ciel2 ciel2 fluide3"
+      "nolwenn3 couple5 couple5 couple5";
+  }
+
+  .grid-container div{
+      content: " ";
+  }
+
+  /* TODO : mettre les images */
+  
+  .fluide1 { grid-area: fluide1; background-image: url('../asset/images/IMG_6353.png'); }
+  
+  .couple1 { grid-area: couple1; background-color: red; }
+  
+  .couple2 { grid-area: couple2; background-color: red; }
+  
+  .sophie { grid-area: sophie; background-color: red; }
+  
+  .couple3 { grid-area: couple3; background-color: red; }
+  
+  .appoline { grid-area: appoline; background-color: red; }
+  
+  .nolwenn1 { grid-area: nolwenn1; background-color: red; }
+  
+  .groupe { grid-area: groupe; background-color: red; }
+  
+  .ciel1 { grid-area: ciel1; background-color: red; }
+  
+  .nolwenn2 { grid-area: nolwenn2; background-color: red; }
+  
+  .fluide2 { grid-area: fluide2; background-color: red; }
+  
+  .couple4 { grid-area: couple4; background-color: red; }
+  
+  .ciel2 { grid-area: ciel2; background-color: red; }
+  
+  .fluide3 { grid-area: fluide3; background-color: red; }
+  
+  .nolwenn3 { grid-area: nolwenn3; background-color: red; }
+  
+  .couple5 { grid-area: couple5; background-color: red; }
+  
+
+
+  /* Video */
+.video h3{
+    font-size: 2.4em;
+    font-weight: 300;
+}
+
+
+/* Realisation */
+.realisation .lien-image{
+    width:560px;
+    height:315px; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
