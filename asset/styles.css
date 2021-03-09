@@ -89,41 +89,44 @@ p{
 
   .grid-container div{
       content: " ";
+      background-size: cover;
+      background-position: center;
   }
+
 
   /* TODO : mettre les images */
 
-  .fluide1 { grid-area: fluide1; background-image: url('../asset/images/IMG_6353.png'); }
+  .fluide1 { grid-area: fluide1; background-image: url('../asset/images/fluide1.JPG'); }
 
-  .couple1 { grid-area: couple1; background-color: red; }
+  .couple1 { grid-area: couple1; background-image: url('../asset/images/couple1.JPG'); }
 
-  .couple2 { grid-area: couple2; background-color: red; }
+  .couple2 { grid-area: couple2; background-image: url('../asset/images/couple2.JPG'); }
 
   .sophie { grid-area: sophie; background-image: url('../asset/images/sophie.JPG'); }
 
-  .couple3 { grid-area: couple3; background-color: red; }
+  .couple3 { grid-area: couple3; background-image: url('../asset/images/couple5.JPG'); }
 
-  .appoline { grid-area: appoline; background-color: red; }
+  .appoline { grid-area: appoline; background-image: url('../asset/images/apo.JPG'); }
 
-  .nolwenn1 { grid-area: nolwenn1; background-color: red; }
+  .nolwenn1 { grid-area: nolwenn1; background-image: url('../asset/images/nolwenn2.jpg'); }
 
-  .groupe { grid-area: groupe; background-color: red; }
+  .groupe { grid-area: groupe; background-image: url('../asset/images/groupe.JPG'); }
 
-  .ciel1 { grid-area: ciel1; background-color: red; }
+  .ciel1 { grid-area: ciel1; background-image: url('../asset/images/ciel1.JPG'); }
 
-  .nolwenn2 { grid-area: nolwenn2; background-color: red; }
+  .nolwenn2 { grid-area: nolwenn2; background-image: url('../asset/images/nolwenn3.JPG'); }
 
-  .fluide2 { grid-area: fluide2; background-color: red; }
+  .fluide2 { grid-area: fluide2; background-image: url('../asset/images/fluide2.JPG'); }
 
-  .couple4 { grid-area: couple4; background-color: red; }
+  .couple4 { grid-area: couple4; background-image: url('../asset/images/couple4.JPG'); }
 
-  .ciel2 { grid-area: ciel2; background-color: red; }
+  .ciel2 { grid-area: ciel2; background-image: url('../asset/images/ciel2.JPG'); }
 
-  .fluide3 { grid-area: fluide3; background-color: red; }
+  .fluide3 { grid-area: fluide3; background-image: url('../asset/images/fluide3.jpg'); }
 
-  .nolwenn3 { grid-area: nolwenn3; background-color: red; }
+  .nolwenn3 { grid-area: nolwenn3;background-image: url('../asset/images/nolwenn1.jpg'); }
 
-  .couple5 { grid-area: couple5; background-color: red; }
+  .couple5 { grid-area: couple5; background-image: url('../asset/images/couple3.JPG'); }
 
 
 
