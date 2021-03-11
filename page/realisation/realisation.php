@@ -5,16 +5,55 @@
     </div>
 
     <div class="list-realisation marge">
-        <!-- TODO : remplir le contenu + pdf -->
-        <!-- cv video -->
+        
+        <!-- Maquette mini fb -->
         <div class="item d-flex justify-content-between mt-5">
-            <div 
+            <div
                 class="lien-image"
-                style="background-image: url('asset/images/IMG_6353.png');">
+                style="background-image: url('asset/images/maquette_mini_fb.png');">
             </div>
             <div class="text mt-3" style="width: 600px;">
-                <h3>Titre</h3>
-                <p>description</p>
+                <h3>Maquette mini Facebook.</h3>
+                <p>Maquette d’un réseaux social fictif. Réalisée sur Adobe XD.</p>
+                <a href="#">voir plus</a>
+            </div>
+        </div>
+
+        <!-- Magazine musée LAM -->
+        <div class="item d-flex justify-content-between mt-5">
+            <div
+                class="lien-image"
+                style="background-image: url('asset/images/PAO_LAM.png');">
+            </div>
+            <div class="text mt-3" style="width: 600px;">
+                <h3>Magazine musée LAM.</h3>
+                <p>Mise en page d’un magazine sur le musée LAM à Villeneuve d’Asq. Réalisé avec Indesign.</p>
+                <a href="#">voir plus</a>
+            </div>
+        </div>
+
+        <!-- Magazine touristique -->
+        <div class="item d-flex justify-content-between mt-5">
+            <div
+                class="lien-image"
+                style="background-image: url('asset/images/PAO_iles.png');">
+            </div>
+            <div class="text mt-3" style="width: 600px;">
+                <h3>Magazine touristique.</h3>
+                <p>Mise en page d’un magazine touristique sur les îles. Réalisé avec Indesign.</p>
+                <a href="#">voir plus</a>
+            </div>
+        </div>
+
+        <!-- Abum cover -->
+        <div class="item d-flex justify-content-between mt-5">
+            <div
+                class="lien-image"
+                style="background-image: url('asset/images/COVER.jpg');">
+            </div>
+            <div class="text mt-3" style="width: 600px;">
+                <h3>Album cover.</h3>
+                <p>Création graphique d’un album dans la cadre d’un cours d’esthétique. Réalisé avec photoshop.</p>
                 <a href="#">voir plus</a>
             </div>
         </div>

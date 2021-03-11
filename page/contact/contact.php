@@ -11,9 +11,9 @@
         <div class="text ms-5">
             <p><a href="mailto:Claire.goossaert@gmail.com"><i class="far fa-envelope"></i> Claire.goossaert@gmail.com</a></p>
             <p><a href="tel:+33675981307"><i class="fas fa-phone"></i> 06.75.98.13.07</a></p>
-            <!-- TODO : mettre les liens -->
-            <p><a href=""><i class="fab fa-youtube"></i> Chaîne YouTube.</a></p>
-            <p><a href=""><i class="fab fa-instagram"></i> @clairg_art</a></p>
+
+            <p><a href="https://www.youtube.com/channel/UCHvN09PDdsTbXFDdU4-7dEg"><i class="fab fa-youtube"></i> Chaîne YouTube.</a></p>
+            <p><a href="https://www.instagram.com/claireg_art/"><i class="fab fa-instagram"></i> @claireg_art</a></p>
         </div>
     </div>
     <!-- TODO :  mettres les bonnes files -->
