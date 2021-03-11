@@ -1,6 +1,17 @@
 /* font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
 
+/* lemon milk  */
+@font-face {
+    font-family: "LemonMilk";
+    src: url("./font/LEMONMILK-Light.ttf")
+   }
+
+   @font-face {
+    font-family: "LemonMilkBold";
+    src: url("./font/LEMONMILK-Bold.ttf")
+   }
+
 
 *{
     padding: 0;
@@ -10,13 +21,18 @@
 .content{
     background-color: #151515;
     color: white;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', Helvetica, sans-serif;
+}
+
+.navbar{
+    height: 5vh !important;
+    font-family: "LemonMilk", Helvetica;
 }
 
 .page{
-    padding-top: 100px;
-    padding-bottom: 100px;
-    min-height: 100vh;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    min-height: 90vh;
 }
 .marge{
     padding-right: 250px;
@@ -25,6 +41,18 @@
 
 h1{
     font-size: 4.5em !important;
+    font-family: "LemonMilkBold", Helvetica;
+}
+h1.portfolio{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    transform: rotate(-90deg);
+    
+}
+
+h2, h3 {
+    font-family: "LemonMilk", Helvetica;
 }
 
 p{
@@ -59,7 +87,7 @@ p{
 }
     .bannPage h2{
         font-size: 3em;
-        font-weight: 300;
+        font-weight: 200;
     }
 
     .bannPage .underline{
@@ -89,44 +117,39 @@ p{
 
   .grid-container div{
       content: " ";
-      background-size: cover;
-      background-position: center;
   }
 
+  .fluide1 { grid-area: fluide1; background-image: url('../asset/images/fluide1.JPG'); background-size: cover; background-position: center;}
 
-  /* TODO : mettre les images */
+  .couple1 { grid-area: couple1; background-image: url('../asset/images/couple1.JPG'); background-size: cover; background-position: center; }
 
-  .fluide1 { grid-area: fluide1; background-image: url('../asset/images/fluide1.JPG'); }
+  .couple2 { grid-area: couple2; background-image: url('../asset/images/couple2.JPG'); background-size: cover; background-position: center; }
 
-  .couple1 { grid-area: couple1; background-image: url('../asset/images/couple1.JPG'); }
+  .sophie { grid-area: sophie; background-image: url('../asset/images/sophie.JPG'); background-size: cover; background-position: center; }
 
-  .couple2 { grid-area: couple2; background-image: url('../asset/images/couple2.JPG'); }
+  .couple3 { grid-area: couple3; background-image: url('../asset/images/couple5.JPG'); background-size: cover; background-position: center; }
 
-  .sophie { grid-area: sophie; background-image: url('../asset/images/sophie.JPG'); }
+  .appoline { grid-area: appoline; background-image: url('../asset/images/apo.JPG'); background-size: cover; background-position: center; }
 
-  .couple3 { grid-area: couple3; background-image: url('../asset/images/couple5.JPG'); }
+  .nolwenn1 { grid-area: nolwenn1; background-image: url('../asset/images/nolwenn2.jpg'); background-size: cover; background-position: center; }
 
-  .appoline { grid-area: appoline; background-image: url('../asset/images/apo.JPG'); }
+  .groupe { grid-area: groupe; background-image: url('../asset/images/groupe.JPG'); background-size: cover; background-position: center; }
 
-  .nolwenn1 { grid-area: nolwenn1; background-image: url('../asset/images/nolwenn2.jpg'); }
+  .ciel1 { grid-area: ciel1; background-image: url('../asset/images/ciel1.JPG'); background-size: cover; background-position: center; }
 
-  .groupe { grid-area: groupe; background-image: url('../asset/images/groupe.JPG'); }
+  .nolwenn2 { grid-area: nolwenn2; background-image: url('../asset/images/nolwenn3.JPG'); background-size: cover; background-position: center; }
 
-  .ciel1 { grid-area: ciel1; background-image: url('../asset/images/ciel1.JPG'); }
+  .fluide2 { grid-area: fluide2; background-image: url('../asset/images/fluide2.JPG'); background-size: cover; background-position: center; }
 
-  .nolwenn2 { grid-area: nolwenn2; background-image: url('../asset/images/nolwenn3.JPG'); }
+  .couple4 { grid-area: couple4; background-image: url('../asset/images/couple4.JPG'); background-size: cover; background-position: center; }
 
-  .fluide2 { grid-area: fluide2; background-image: url('../asset/images/fluide2.JPG'); }
+  .ciel2 { grid-area: ciel2; background-image: url('../asset/images/ciel2.JPG'); background-size: cover; background-position: center; }
 
-  .couple4 { grid-area: couple4; background-image: url('../asset/images/couple4.JPG'); }
+  .fluide3 { grid-area: fluide3; background-image: url('../asset/images/fluide3.jpg'); background-size: cover; background-position: center; }
 
-  .ciel2 { grid-area: ciel2; background-image: url('../asset/images/ciel2.JPG'); }
+  .nolwenn3 { grid-area: nolwenn3;background-image: url('../asset/images/nolwenn1.jpg'); background-size: cover; background-position: center; }
 
-  .fluide3 { grid-area: fluide3; background-image: url('../asset/images/fluide3.jpg'); }
-
-  .nolwenn3 { grid-area: nolwenn3;background-image: url('../asset/images/nolwenn1.jpg'); }
-
-  .couple5 { grid-area: couple5; background-image: url('../asset/images/couple3.JPG'); }
+  .couple5 { grid-area: couple5; background-image: url('../asset/images/couple3.JPG'); background-size: cover; background-position: center; }
 
 
 
@@ -145,3 +168,21 @@ p{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
+/* contact */
+.contact {
+    height: 90vh !important;
+}
+.contact a{
+    font-size: 1em;
+    line-height: 60px;
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+    .contact a i {
+        width: 80px;
+        font-size: 1.4em;
+    }

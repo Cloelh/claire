@@ -5,6 +5,7 @@
     </div>
 
     <div class="list-realisation marge">
+        <!-- TODO : remplir le contenu + pdf -->
         <!-- cv video -->
         <div class="item d-flex justify-content-between mt-5">
             <div 

@@ -1,3 +1,4 @@
+
 <div class="page home">
     <div class="banner d-flex justify-content-between marge">
         <div>
@@ -31,32 +32,10 @@
         </iframe>
     </div>
 
-    <!-- TODO : changer le texte -->
-
     <div class="skill mt-5 marge">
         <h3 class="d-flex w-100 justify-content-end">Compétences.</h3>
-        <div class="d-flex w-100 justify-content-around">
-            <div>
-                <span>Final Cut Pro</span>
-                <p>90%</p>
-            </div>
-            <div style="transform: translateY(40px);">
-                <span>Final Cut Pro</span>
-                <p>90%</p>
-            </div>
-            <div style="transform: translateY(85px);">
-                <span>Final Cut Pro</span>
-                <p>90%</p>
-            </div>
-            <div style="transform: translateY(95px);">
-                <span>Final Cut Pro</span>
-                <p>90%</p>
-            </div>
-            <div style="transform: translateY(125px);">
-                <span>Final Cut Pro</span>
-                <p>90%</p>
-            </div>
-        </div>
-        <img src="asset/images/vague.svg" width="100%" alt="vague">
+        <img src="asset/images/courbe.svg" width="100%" alt="vague">
     </div>
 </div>
+
+<h1 class="portfolio">PORTFOLIO</h1>

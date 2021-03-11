@@ -23,6 +23,7 @@
             </div>
         </div>
 
+        <!-- TODO : remplir le contenu -->
         <!-- autres réalisations -->
         <div class="item d-flex justify-content-between mt-5">
             <div class="lien-video">
