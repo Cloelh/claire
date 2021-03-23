@@ -11,8 +11,6 @@
     font-family: "LemonMilkBold";
     src: url("./font/LEMONMILK-Bold.ttf")
    }
-
-
 *{
     padding: 0;
     margin: 0;
@@ -30,8 +28,7 @@
 }
 
 .page{
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-bottom: 200px;
     min-height: 80vh;
 }
 .marge{
@@ -63,6 +60,20 @@ a.link:hover{
     text-decoration: underline;
 }
 
+a.nav-link{
+    color: white;
+    font-size: 0.9em;
+    margin-left: 30px;
+}
+a.nav-link:hover{
+    color: #7877E6;
+    text-decoration: underline;
+}
+
+nav{
+    background-color: #151515;
+}
+
 /* HOME */
 .home .banner{
     margin-bottom: 100px;
@@ -75,7 +86,7 @@ a.link:hover{
 .home .bannVideo{
     background-color: #7877E6;
     height: 30vh;
-    margin-bottom: 200px;
+    margin-bottom: 120px;
 }
 
 
@@ -153,6 +164,10 @@ a.link:hover{
 
 
   /* Video */
+.list-video h3{
+    font-family: 'Poppins', Helvetica, sans-serif;
+    font-weight: 300;
+}
 
 .video h3{
     font-size: 2.4em;
@@ -177,17 +192,24 @@ a.link:hover{
 
 /* contact */
 .contact {
-    height: 80vh !important;
+    min-height: 90vh !important;
 }
 .contact a{
-    font-size: 1em;
-    line-height: 60px;
+    font-size: 1.1em;
     text-decoration: none;
     color: white;
     display: flex;
     align-items: center;
+    font-weight: 300;
+}
+.contact a:hover{
+    color: #7877E6;
 }
     .contact a i {
-        width: 80px;
+        width: 40px;
         font-size: 1.4em;
     }
+
+.contact a.linkDownload{
+    width: 300px;
+}

@@ -2,10 +2,10 @@
 <div class="page home">
     <div class="banner d-flex justify-content-between marge">
         <div>
-            <img src="asset/images/banner.png" width="400px">
+            <img src="asset/images/banner.png" width="350px">
         </div>
-        <div class="d-flex flex-column align-content-center justify-content-center col-7">
-            <h1 class="mb-4">Claire <br> Goossaert</h1>
+        <div class="d-flex flex-column align-content-center justify-content-center col-6">
+            <h1>Claire <br> Goossaert</h1>
             <p>Photographie, vidéo, graphisme.</p>
         </div>
     </div>
@@ -59,7 +59,7 @@
         </iframe>
     </div>
 
-    <div class="skill mt-5 marge">
+    <div class="skill marge">
         <h3 class="d-flex w-100 justify-content-end">Compétences.</h3>
         <img src="asset/images/courbe.svg" width="100%" alt="vague" class="mt-5">
     </div>

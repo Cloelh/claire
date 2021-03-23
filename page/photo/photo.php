@@ -1,10 +1,8 @@
-<div class="page photo">
+<div class="page photo mt-5 pt-5">
     <div class="marge bannPage d-flex flex-column w-100">
         <h2>Photographies.</h2>
         <div class="mt-3 underline"></div>
     </div>
-
-    
 
     <div class="grid-photo marge">
         <div class="grid-container">

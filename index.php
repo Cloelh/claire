@@ -10,6 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Claire Goossaert</title>
     <link rel="stylesheet" href="asset/styles.css">
+    <link rel="stylesheet" href="asset/styleMobile.css">
 
     <!-- css bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
@@ -19,7 +20,7 @@
 </head>
 <body>
 <div class="content">
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -45,7 +46,7 @@
             </div>
         </div>
     </nav>
-    <div>
+    <div class="mb-3">
         <div>
             <!--<div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">-->
             <div>
@@ -71,7 +72,7 @@
             </div>
         </div>
     </div>
-    <nav class="footer navbar navbar-expand-lg">
+    <nav class="footer navbar navbar-expand-lg fixed-bottom">
         <div class="container-fluid">
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
