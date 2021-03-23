@@ -107,6 +107,24 @@
         width: 300px !important;
     }
 
+    /* realisation */
+    .realisation h3{
+        font-size: 1.4em;
+    }
+
+    .list-realisation .item {
+        flex-direction: column;
+    }
+
+    .list-realisation .item .lien-image{
+        width: 300px !important;
+        height: 180px !important;
+    }
+
+    .list-realisation .item .col-4{
+        width: 300px !important;
+    }
+
     /* contact */
 
     .contact .info{
