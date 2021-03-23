@@ -45,6 +45,19 @@
             </div>
         </div>
 
+        <!-- Affiche festival -->
+        <div class="item d-flex justify-content-between mt-5">
+            <div
+                class="lien-image col-1"
+                style="background-image: url('asset/images/affiche_verticale.jpg');">
+            </div>
+            <div class="text mt-3 col-4">
+                <h3>Affiche de festival.</h3>
+                <p>Création d'un affiche pour un festival fictif. Réalisée avec photoshop.</p>
+                <a class="link" href="#">voir plus</a>
+            </div>
+        </div>
+
         <!-- Abum cover -->
         <div class="item d-flex justify-content-between mt-5">
             <div
