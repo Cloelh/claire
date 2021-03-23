@@ -107,6 +107,7 @@ nav{
         background-color: white;
     }
 
+@media screen and (min-width: 1000px) {
 /* photo */
 .grid-container {
     height: 450vh;
@@ -124,6 +125,8 @@ nav{
       "ciel2 ciel2 ciel2 fluide3"
       "nolwenn3 couple5 couple5 couple5";
   }
+}
+
 
   .grid-container div{
       content: " ";

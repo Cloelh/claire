@@ -1,8 +1,99 @@
 @media screen and (max-width: 1000px) {
-    
-    p{
-        /* color: red !important; */
+
+    .navbar-toggler-icon i{
+        color: white;
+        font-size: 2em;
+        z-index: 99;
     }
+
+    .marge{
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    h1{
+        font-size: 2em !important;
+    }
+
+    .lineLeft, .lineBottom{
+        display: none;
+    }
+    
+    /* HOME */
+    .home .presentation{
+        margin-bottom: 200px;
+    }
+
+    .home .bannVideo{
+        height: 10vh;
+        margin-bottom: 120px;
+    }
+
+    .home .bannVideo iframe{
+        width: 200px;
+        height: 100px;
+    }
+
+    .banner{
+        flex-direction: column;
+    }
+
+    .banner img{
+        width: 300px;
+        margin-bottom: 30px;
+    }
+
+    /* PAGE */
+    .bannPage{
+        height: 20vh;
+    }
+        .bannPage h2{
+            font-size: 1.5em;
+            font-weight: 200;
+        }
+
+        .bannPage .underline{
+            content: " ";
+            height: 2px;
+            width: 50%;
+            background-color: white;
+    }
+
+    /* photo */
+    .grid-container {
+        height: 650vh;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 3fr 1fr 1fr 1fr 1fr 3fr 3fr 1fr 1fr 1fr 3fr 1fr 1fr 3fr 3fr 1fr;
+        gap: 40px 40px;
+        grid-template-areas:
+        "fluide1"
+        "couple1"
+        "couple2"
+        "sophie"
+        "couple3"
+        "appoline"
+        "nolwenn1"
+        "groupe"
+        "ciel1"
+        "nolwenn2"
+        "fluide2"
+        "couple4"
+        "ciel2"
+        "fluide3"
+        "nolwenn3"
+        "couple5" !important;
+    }
+
+    /* video */
+    .video h3{
+        font-size: 1em;
+    }
+
+    .list-video .item {
+        flex-direction: column;
+    }
+
 
 
 
