@@ -14,7 +14,7 @@
             </div>
             <div class="text col-4" >
                 <h3>Maquette mini Facebook.</h3>
-                <p>Maquette d’un réseaux social fictif. Réalisée sur Adobe XD.</p>
+                <p>Maquette d’un réseau social fictif. Réalisée sur Adobe XD.</p>
                 <a class="link" href="#">voir plus</a>
             </div>
         </div>
@@ -27,7 +27,7 @@
             </div>
             <div class="text mt-3 col-4">
                 <h3>Magazine musée LAM.</h3>
-                <p>Mise en page d’un magazine sur le musée LAM à Villeneuve d’Asq. Réalisé avec Indesign.</p>
+                <p>Mise en page d’un magazine sur le musée LAM à Villeneuve d’Asq. Réalisée avec Indesign.</p>
                 <a class="link" href="#">voir plus</a>
             </div>
         </div>
@@ -40,7 +40,7 @@
             </div>
             <div class="text mt-3 col-4">
                 <h3>Magazine touristique.</h3>
-                <p>Mise en page d’un magazine touristique sur les îles. Réalisé avec Indesign.</p>
+                <p>Mise en page d’un magazine touristique sur les îles. Réalisée avec Indesign.</p>
                 <a class="link" href="#">voir plus</a>
             </div>
         </div>
@@ -53,7 +53,7 @@
             </div>
             <div class="text mt-3 col-4">
                 <h3>Album cover.</h3>
-                <p>Création graphique d’un album dans la cadre d’un cours d’esthétique. Réalisé avec photoshop.</p>
+                <p>Création graphique d’un album dans la cadre d’un cours d’esthétique. Réalisée avec photoshop.</p>
                 <a class="link" href="#">voir plus</a>
             </div>
         </div>

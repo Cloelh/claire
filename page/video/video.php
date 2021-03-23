@@ -90,5 +90,41 @@
                 <p>Projet personnel réalisé avec Final Cut Pro X et Premiere Pro. Plus de créations disponibles sur ma chaine Youtube.</p>
             </div>
         </div>
+
+        <!-- Pub prévention suicide -->
+        <div class="item d-flex justify-content-between mt-5">
+            <div class="lien-video">
+                <iframe
+                    width="560"
+                    height="315"
+                    src="https://www.youtube.com/embed/FI2ice75NzY"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            <div class="text mt-3" style="width: 600px;">
+                <h3>Pub prévention suicide.</h3>
+                <p>Pub de prévention contre le suicide, réalisée pour un cours de communication. Entièrement réalisée sur Premiere Pro. </p>
+            </div>
+        </div>
+
+          <!-- Web TV -->
+          <div class="item d-flex justify-content-between mt-5">
+            <div class="lien-video">
+                <iframe
+                    width="560"
+                    height="315"
+                    src="https://www.youtube.com/embed/xEThyjMM_Co"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+            <div class="text mt-3" style="width: 600px;">
+                <h3>Web TV.</h3>
+                <p>Web TV réalisée dans le studio de l'IUT, dans le cadre d'un cours d'audiovisuel. </p>
+            </div>
+        </div>
     </div>
 </div>
