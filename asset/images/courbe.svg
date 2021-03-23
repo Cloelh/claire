@@ -1,40 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1922 1082" style="enable-background:new 0 0 1922 1082;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#151515;}
-	.st1{fill:none;stroke:#FFFDFD;stroke-width:2;stroke-miterlimit:10;}
-	.st2{fill:#FFFFFF;}
-	.st3{font-family:'Poppins-Medium';}
-	.st4{font-size:31.09px;}
-	.st5{font-family:'Poppins-Light';}
-</style>
-<rect x="1" y="1" class="st0" width="1920" height="1080"/>
-<path class="st1" d="M85.4,768.8c0,0,114-142.8,182.8-142.8s121.1,142.8,175.3,142.8s62-92.6,120.3-121.3s71.2,34.1,141.9,105.6
-	c72,56.5,142.7-61.7,155.9-80.6s52.8-45.3,125.7,66.3c63.9,97.7,180.5-53.7,227.6-58.9c66.2-7.3,236.4,161.4,318.6,60.9
-	c58.7-71.8,137.4,25.3,332.1,32.5"/>
-<path class="st1" d="M85.4,754.6c0,0,114-142.8,182.8-142.8s121.1,142.8,175.3,142.8s62-92.6,120.3-121.3s71.2,34.1,141.9,105.7
-	c71.9,56.5,142.7-61.7,155.9-80.6s52.8-45.3,125.7,66.3c63.8,97.6,180.6-53.7,227.6-59c66.2-7.3,236.4,161.4,318.6,60.9
-	c58.7-71.9,137.4,25.3,332.1,32.5"/>
-<path class="st1" d="M85.4,738.8c0,0,114-142.8,182.8-142.8s121.1,142.8,175.3,142.8s62-92.6,120.3-121.3s71.3,34.1,141.9,105.6
-	c72,56.5,142.7-61.7,155.9-80.6s52.8-45.3,125.7,66.3c63.8,97.7,180.6-53.7,227.6-58.9c66.2-7.3,236.4,161.4,318.6,60.9
-	c58.7-71.9,137.4,25.3,332.1,32.5"/>
-<path class="st1" d="M85.7,726c0,0,114-142.8,182.8-142.8S389.6,726,443.8,726s62-92.6,120.3-121.3s71.2,34.1,141.9,105.6
-	c72,56.5,142.7-61.7,155.9-80.6s52.8-45.3,125.7,66.2c63.8,97.7,180.6-53.7,227.6-58.9c66.2-7.3,236.4,161.4,318.6,60.9
-	c58.7-71.9,137.4,25.3,332.1,32.5"/>
-<text transform="matrix(1 0 0 1 190.56 450.33)" class="st2 st3 st4">Final Cut Pro</text>
-<text transform="matrix(1 0 0 1 190.11 486.4)" class="st2 st3 st4">Premiere Pro</text>
-<text transform="matrix(1 0 0 1 255.76 543.29)" class="st2 st5 st4">85 %</text>
-<text transform="matrix(1 0 0 1 514.07 505.28)" class="st2 st3 st4">Adobe Xd</text>
-<text transform="matrix(1 0 0 1 564.8 563)" class="st2 st5 st4">75 %</text>
-<text transform="matrix(1 0 0 1 816.57 504.62)" class="st2 st3 st4">Photoshop</text>
-<text transform="matrix(1 0 0 1 830.56 537.27)" class="st2 st3 st4">Indesign</text>
-<text transform="matrix(1 0 0 1 867.3 590.31)" class="st2 st5 st4">70 %</text>
-<text transform="matrix(1 0 0 1 1138.64 523.59)" class="st2 st3 st4">After Effects</text>
-<text transform="matrix(1 0 0 1 1152.64 556.24)" class="st2 st3 st4">Lightroom</text>
-<text transform="matrix(1 0 0 1 1189.37 609.29)" class="st2 st5 st4">60 %</text>
-<text transform="matrix(1 0 0 1 1512.5601 563.08)" class="st2 st3 st4">Illustrator</text>
-<text transform="matrix(1 0 0 1 1442.6 595.73)" class="st2 st3 st4">Character animator</text>
-<text transform="matrix(1 0 0 1 1549.29 642.56)" class="st2 st5 st4">50 %</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1682.385" height="420.185" viewBox="0 0 1682.385 420.185">
+  <g id="Vagues" transform="translate(-88.366 -2442.744)">
+    <path id="Tracé_2" data-name="Tracé 2" d="M98.824,2885.832s89.84-206.826,147.164-199.93,78.941,199.93,145.057,199.93,97.249-144.583,157.554-147.609,129.2,153.1,184.173,160.829S806.012,2784.47,886.1,2784.47s103.317,111.487,168.7,114.582c24.975,1.182,48.478-13.623,72.4-32.494,38.3-30.217,77.45-70.88,124.656-70.88,76.385,0,107.7,103.375,183.607,103.375s104.079-65.005,173.82-61.746,171.18,75.214,171.18,75.214" transform="translate(-10 -50)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Tracé_3" data-name="Tracé 3" d="M98.824,2885.832s89.84-206.826,147.164-199.93,78.941,199.93,145.057,199.93,97.249-144.583,157.554-147.609,129.2,153.1,184.173,160.829S806.012,2784.47,886.1,2784.47s103.317,111.487,168.7,114.582c24.975,1.182,48.478-13.623,72.4-32.494,38.3-30.217,77.45-70.88,124.656-70.88,76.385,0,107.7,103.375,183.607,103.375s104.079-65.005,173.82-61.746,171.18,75.214,171.18,75.214" transform="translate(-10 -63)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Tracé_4" data-name="Tracé 4" d="M98.824,2885.832s89.84-206.826,147.164-199.93,78.941,199.93,145.057,199.93,97.249-144.583,157.554-147.609,129.2,153.1,184.173,160.829S806.012,2784.47,886.1,2784.47s103.317,111.487,168.7,114.582c24.975,1.182,48.478-13.623,72.4-32.494,38.3-30.217,77.45-70.88,124.656-70.88,76.385,0,107.7,103.375,183.607,103.375s104.079-65.005,173.82-61.746,171.18,75.214,171.18,75.214" transform="translate(-10 -80)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Tracé_5" data-name="Tracé 5" d="M98.824,2885.832s89.84-206.826,147.164-199.93,78.941,199.93,145.057,199.93,97.249-144.583,157.554-147.609,129.2,153.1,184.173,160.829S806.012,2784.47,886.1,2784.47s103.317,111.487,168.7,114.582c24.975,1.182,48.478-13.623,72.4-32.494,38.3-30.217,77.45-70.88,124.656-70.88,76.385,0,107.7,103.375,183.607,103.375s104.079-65.005,173.82-61.746,171.18,75.214,171.18,75.214" transform="translate(-10 -97)" fill="none" stroke="#fff" stroke-width="1"/>
+  </g>
+  <g id="Logiciels" transform="translate(-81.22 -2425.52)">
+    <text id="Final_Cut_Pro" data-name="Final Cut Pro" transform="translate(136.945 2471.5)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="32">Final Cut Pro</tspan></text>
+    <text id="_85_" data-name="85 %" transform="translate(203 2514.5)" fill="#fff" font-size="30" font-family="Poppins-ExtraLight, Poppins" font-weight="200"><tspan x="0" y="32">85 %</tspan></text>
+    <text id="Adobe_Xd" data-name="Adobe Xd" transform="translate(465 2536)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="32">Adobe Xd</tspan></text>
+    <text id="Indesign" transform="translate(804 2579.5)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="32">Indesign</tspan></text>
+    <text id="_70_" data-name="70 %" transform="translate(839.5 2622.5)" fill="#fff" font-size="30" font-family="Poppins-ExtraLight, Poppins" font-weight="200"><tspan x="0" y="32">70 %</tspan></text>
+    <text id="Lightroom" transform="translate(1151.86 2589)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="32">Lightroom</tspan></text>
+    <text id="_60_" data-name="60%" transform="translate(1200.86 2632)" fill="#fff" font-size="30" font-family="Poppins-ExtraLight, Poppins" font-weight="200"><tspan x="0" y="32">60%</tspan></text>
+    <text id="Illustrator" transform="translate(1496 2632)" fill="#fff" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="32">Illustrator</tspan></text>
+    <text id="_50_" data-name="50%" transform="translate(1562 2675)" fill="#fff" font-size="30" font-family="Poppins-ExtraLight, Poppins" font-weight="200"><tspan x="0" y="32">50%</tspan></text>
+    <text id="_75_" data-name="75 %" transform="translate(500 2606.26)" fill="#fff" font-size="31.09" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">75 %</tspan></text>
+    <text id="Photoshop" transform="translate(791 2567.5)" fill="#fff" font-size="31.09" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Photoshop</tspan></text>
+    <text id="After_Effects" data-name="After Effects" transform="translate(1134.5 2589)" fill="#fff" font-size="31.09" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">After Effects</tspan></text>
+    <text id="Character_animator" data-name="Character animator" transform="translate(1421.6 2628.26)" fill="#fff" font-size="31.09" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Character animator</tspan></text>
+    <text id="Premiere_Pro" data-name="Premiere Pro" transform="translate(136.055 2458.52)" fill="#fff" font-size="31.09" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Premiere Pro</tspan></text>
+  </g>
 </svg>

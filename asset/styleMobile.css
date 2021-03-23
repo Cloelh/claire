@@ -30,8 +30,12 @@
     }
 
     .home .bannVideo iframe{
-        width: 200px;
-        height: 100px;
+        width: 300px;
+        height: 150px;
+    }
+
+    .home .skill{
+        display: none;
     }
 
     .banner{
@@ -87,13 +91,59 @@
 
     /* video */
     .video h3{
-        font-size: 1em;
+        font-size: 1.4em;
     }
 
     .list-video .item {
         flex-direction: column;
     }
 
+    .list-video .item iframe{
+        width: 300px;
+        height: 150px;
+    }
+
+    .list-video .item .col-4{
+        width: 300px !important;
+    }
+
+    /* contact */
+
+    .contact .info{
+        flex-direction: column-reverse;
+    }
+
+    .contact .info img{
+        margin-bottom: 50px;
+    }
+
+    .contact a{
+        font-size: 0.9em;
+        text-decoration: none;
+        color: white;
+        display: flex;
+        align-items: center;
+        font-weight: 300;
+    }
+    .contact a:hover{
+        color: #7877E6;
+    }
+        .contact a i {
+            margin-right: 30px;
+            font-size: 1.4em;
+        }
+    
+    .contact .download{
+        border-top: 1px solid white;
+        padding-top: 30px;
+        flex-direction: column;
+    }
+    
+    .contact a.linkDownload{
+        padding: 0 !important;
+        margin: 0;
+        margin-bottom: 30px;
+    }
 
 
 
