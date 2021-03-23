@@ -73,17 +73,13 @@
     </div>
     <nav class="footer navbar navbar-expand-lg">
         <div class="container-fluid">
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php?action=home">Accueil</a>
+                        <p class="nav-link">© 2020 by Claire Goossaert</p>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php?action=photo">Photos</a>
-                    </li>
+                        <a class="nav-link" href="https://www.linkedin.com/in/claire-goossaert/"><i class="fab fa-linkedin"></i></a>
                     </li>
                 </ul>
             </div>
@@ -97,3 +93,20 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
 </body>
 </html>
+
+
+
+<!-- TODO : 
+    - mettre le target sur tous les link amenant sur une autre page
+    - faire le responsive 
+        -> home
+        -> photo
+        -> video
+        -> real
+        -> contact
+    - hebergement
+    - link des reseaux sociaux 
+    - couleurs des liens 
+    - hover des liens ? 
+    - décorations
+-->

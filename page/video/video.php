@@ -17,9 +17,23 @@
                     allowfullscreen>
                 </iframe>
             </div>
-            <div class="text mt-3" style="width: 600px;">
-                <h3>CV Vidéo.</h3>
-                <p>CV vidéo en anglais. Réalisé entièrement avec After Effects.</p>
+            <div class="mt-3 d-flex align-items-center" style="width: 600px;">
+                <div class="text">
+                    <h3>CV Vidéo.</h3>
+                    <p>CV vidéo en anglais. Réalisé entièrement avec After Effects.</p>
+                </div>
+                <div class="lineRight">
+                    <style>
+                        .lineRight{
+                            content: ' ';
+                            background-color: white;
+                            height: 200px;
+                            width: 2px;
+                            margin-left: 50px;
+                            transform: translateY(50px);
+                        }
+                    </style>
+                </div>
             </div>
         </div>
 

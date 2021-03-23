@@ -25,14 +25,14 @@
 }
 
 .navbar{
-    height: 5vh !important;
+    height: 10vh !important;
     font-family: "LemonMilk", Helvetica;
 }
 
 .page{
     padding-top: 60px;
     padding-bottom: 60px;
-    min-height: 90vh;
+    min-height: 80vh;
 }
 .marge{
     padding-right: 250px;
@@ -43,40 +43,39 @@ h1{
     font-size: 4.5em !important;
     font-family: "LemonMilkBold", Helvetica;
 }
-h1.portfolio{
-    position: absolute;
-    top: 100px;
-    left: 100px;
-    transform: rotate(-90deg);
-    
-}
 
 h2, h3 {
     font-family: "LemonMilk", Helvetica;
 }
 
 p{
-    font-size: 1.3em;
+    font-size: 1em;
     font-weight: 300;
 }
 
+a.link{
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+}
+a.link:hover{
+    color: white;
+    text-decoration: underline;
+}
+
 /* HOME */
-.home .imageBanner{
-    background-image:url('../asset/images/IMG_6353.png');
-    background-position: center;
-    background-size: cover;
-    height: 60vh;
-    width: 300px;
-    content: " ";
+.home .banner{
+    margin-bottom: 100px;
 }
 
 .home .presentation{
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
 .home .bannVideo{
     background-color: #7877E6;
     height: 30vh;
+    margin-bottom: 200px;
 }
 
 
@@ -154,6 +153,7 @@ p{
 
 
   /* Video */
+
 .video h3{
     font-size: 2.4em;
     font-weight: 300;
@@ -161,6 +161,11 @@ p{
 
 
 /* Realisation */
+.list-realisation h3{
+    font-family: 'Poppins', Helvetica, sans-serif;
+    font-weight: 300;
+}
+
 .realisation .lien-image{
     width:560px;
     height:315px;
@@ -172,7 +177,7 @@ p{
 
 /* contact */
 .contact {
-    height: 90vh !important;
+    height: 80vh !important;
 }
 .contact a{
     font-size: 1em;
