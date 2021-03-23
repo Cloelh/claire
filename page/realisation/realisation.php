@@ -10,7 +10,7 @@
         <div class="item d-flex justify-content-between mt-5">
             <div
                 class="lien-image col-1"
-                style="background-image: url('asset/images/maquette_mini_fb.png');">
+                style="background-image: url('asset/images/Mockup_minifb.jpg');">
             </div>
             <div class="text col-4" >
                 <h3>Maquette mini Facebook.</h3>
@@ -23,7 +23,7 @@
         <div class="item d-flex justify-content-between mt-5">
             <div
                 class="lien-image col-1"
-                style="background-image: url('asset/images/PAO_LAM.png');">
+                style="background-image: url('asset/images/Mockup_magazine_LAM.jpg');">
             </div>
             <div class="text mt-3 col-4">
                 <h3>Magazine musée LAM.</h3>
@@ -36,7 +36,7 @@
         <div class="item d-flex justify-content-between mt-5">
             <div
                 class="lien-image col-1"
-                style="background-image: url('asset/images/PAO_iles.png');">
+                style="background-image: url('asset/images/Mockup_magazine_ile.jpg');">
             </div>
             <div class="text mt-3 col-4">
                 <h3>Magazine touristique.</h3>
@@ -49,7 +49,7 @@
         <div class="item d-flex justify-content-between mt-5">
             <div
                 class="lien-image col-1"
-                style="background-image: url('asset/images/affiche_verticale.jpg');">
+                style="background-image: url('asset/images/Mockup.affiche.jpg');">
             </div>
             <div class="text mt-3 col-4">
                 <h3>Affiche de festival.</h3>
@@ -62,7 +62,7 @@
         <div class="item d-flex justify-content-between mt-5">
             <div
                 class="lien-image col-1"
-                style="background-image: url('asset/images/COVER.jpg');">
+                style="background-image: url('asset/images/Mockup_album.jpg');">
             </div>
             <div class="text mt-3 col-4">
                 <h3>Album cover.</h3>
