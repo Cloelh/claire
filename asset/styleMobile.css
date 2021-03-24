@@ -2,7 +2,7 @@
 
     .navbar-toggler-icon i{
         color: white;
-        font-size: 2em;
+        font-size: 1.5em;
         z-index: 99;
     }
 
@@ -152,7 +152,6 @@
         }
     
     .contact .download{
-        border-top: 1px solid white;
         padding-top: 30px;
         flex-direction: column;
     }
@@ -163,6 +162,33 @@
         margin-bottom: 30px;
     }
 
+    .line{
+        content: " ";
+        width: 100px;
+        height: 2px;
+        background-color: white;
+    }
 
+    /* navbar + footer*/
+
+    .container-fluid{
+        background-color: #151515;
+    }
+
+    .navbartop .container-fluid{
+        margin-bottom: 100px;
+    }
+
+    .footer .container-fluid{
+        margin-top: 100px;
+    }
+
+    .footer .container-fluid .navbar-nav{
+        flex-direction: row !important;
+    }
+
+    .footer .container-fluid .navbar-nav li p {
+        font-size: 0.9em;
+    }
 
 }

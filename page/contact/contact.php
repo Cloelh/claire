@@ -5,6 +5,7 @@
     </div>
 
     <div class="info marge d-flex w-100">
+        <div class="mt-5 line"></div>
         <div class="text d-flex flex-column justify-content-around col-7">
             <p><a href="mailto:Claire.goossaert@gmail.com"><i class="far fa-envelope"></i> Claire.goossaert@gmail.com</a></p>
             <p><a href="tel:+33675981307"><i class="fas fa-phone"></i> 06.75.98.13.07</a></p>
@@ -16,7 +17,6 @@
             <img src="asset/images/IMG_6353.png" alt="photo de claire" height="300px">
         </div>
     </div>
-    <!-- TODO :  mettres les bonnes files -->
     <div class="marge download d-flex w-100 justify-content-between mt-5">
         <div><a class="linkDownload px-2" href="asset/files/cv.pdf" download="CV_GoossaertClaire"><i class="far fa-file-pdf"></i> Curriculum Vitae</a></div>
         <div><a class="linkDownload px-2" href="asset/files/motivation.pdf" download="Lettre-motivation_GoossaertClaire"><i class="far fa-file-pdf"></i> Lettre de motivation</a></div>

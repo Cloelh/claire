@@ -15,7 +15,7 @@
             <div class="text col-4" >
                 <h3>Maquette mini Facebook.</h3>
                 <p>Maquette d’un réseau social fictif. Réalisée sur Adobe XD.</p>
-                <a class="link" href="#">voir plus</a>
+                <a class="link" href="asset/files/Spacebook_maquette.pdf" download="Spacebook_maquette">voir plus</a>
             </div>
         </div>
 
@@ -28,7 +28,8 @@
             <div class="text mt-3 col-4">
                 <h3>Magazine musée LAM.</h3>
                 <p>Mise en page d’un magazine sur le musée LAM à Villeneuve d’Asq. Réalisée avec Indesign.</p>
-                <a class="link" href="#">voir plus</a>
+                <!-- TODO CLAIRE : y a rien dans le pdf -->
+                <a class="link" href="asset/files/PAO_LAM.pdf" download="PAO_LAM">voir plus</a>
             </div>
         </div>
 
@@ -41,7 +42,7 @@
             <div class="text mt-3 col-4">
                 <h3>Magazine touristique.</h3>
                 <p>Mise en page d’un magazine touristique sur les îles. Réalisée avec Indesign.</p>
-                <a class="link" href="#">voir plus</a>
+                <a class="link" href="asset/files/PAO_iles.pdf" download="PAO_iles">voir plus</a>
             </div>
         </div>
 
@@ -54,7 +55,8 @@
             <div class="text mt-3 col-4">
                 <h3>Affiche de festival.</h3>
                 <p>Création d'un affiche pour un festival fictif. Réalisée avec photoshop.</p>
-                <a class="link" href="#">voir plus</a>
+                <!-- TODO CLAIRE : pas de pdf pour celui là  -->
+                <a class="link" href="asset/files/AfficheFestival.pdf" download="AfficheFastival">voir plus</a>
             </div>
         </div>
 
@@ -67,7 +69,7 @@
             <div class="text mt-3 col-4">
                 <h3>Album cover.</h3>
                 <p>Création graphique d’un album dans la cadre d’un cours d’esthétique. Réalisée avec photoshop.</p>
-                <a class="link" href="#">voir plus</a>
+                <a class="link" href="asset/files/pochette_album.pdf" download="pochette_album">voir plus</a>
             </div>
         </div>
 
