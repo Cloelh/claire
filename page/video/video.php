@@ -92,7 +92,7 @@
                     allowfullscreen>
                 </iframe>
             </div>
-            <div class="text mt-3 col-4" style="width: 600px;">
+            <div class="text mt-3 col-4">
                 <h3>Pub prévention suicide.</h3>
                 <p>Pub de prévention contre le suicide, réalisée pour un cours de communication. Entièrement réalisée sur Premiere Pro. </p>
             </div>
@@ -110,7 +110,7 @@
                     allowfullscreen>
                 </iframe>
             </div>
-            <div class="text mt-3 col-4" style="width: 600px;">
+            <div class="text mt-3 col-4">
                 <h3>Web TV.</h3>
                 <p>Web TV réalisée dans le studio de l'IUT, dans le cadre d'un cours d'audiovisuel. </p>
             </div>
