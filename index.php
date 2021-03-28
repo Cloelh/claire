@@ -72,24 +72,17 @@
             </div>
         </div>
     </div>
-    <nav class="footer navbar navbar-expand-lg fixed-bottom">
-        <div class="container-fluid">
-            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <p class="nav-link">© 2020 by Claire Goossaert</p>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://www.linkedin.com/in/claire-goossaert/"><i class="fab fa-linkedin"></i></a>
-                    </li>
-                </ul>
+    <div class="footer fixed-bottom">
+        <div class="d-flex align-items-center justify-content-between border-top border-1 mx-5 h-100">
+            <div>@claireGoossaert</div>
+            <div>
+                <a target="_BLANK" href="https://www.linkedin.com/in/claire-goossaert/"><i class="fab fa-linkedin"></i></a>
+                <a target="_BLANK" href="https://www.instagram.com/claireg_art/"><i class="fab fa-instagram"></i></a>
+                <a target="_BLANK" href="https://www.youtube.com/channel/UCHvN09PDdsTbXFDdU4-7dEg"><i class="fab fa-youtube"></i></a>
             </div>
         </div>
-    </nav>
+    </div>
 </div>
-
-    
-    
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js" integrity="sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG" crossorigin="anonymous"></script>
 </body>
@@ -98,16 +91,12 @@
 
 
 <!-- TODO : 
-    - mettre le target sur tous les link amenant sur une autre page
+    - mettre le target sur tous les link amenant sur une autre page  A VERIFIER
     - faire le responsive 
         -> home
         -> photo
         -> video
         -> real
         -> contact
-    - hebergement
     - link des reseaux sociaux 
-    - couleurs des liens 
-    - hover des liens ? 
-    - décorations
 -->

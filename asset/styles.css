@@ -25,6 +25,12 @@
 .navbar{
     height: 10vh !important;
     font-family: "LemonMilk", Helvetica;
+    background-color: #151515;
+}
+.footer{
+    height: 5vh !important;
+    font-family: "LemonMilk", Helvetica;
+    background-color: #151515;
 }
 
 .page{
