@@ -20,6 +20,10 @@
     }
     
     /* HOME */
+    .home .banner p{
+        width: 300px;
+    }
+
     .home .presentation{
         margin-bottom: 200px;
     }
@@ -38,6 +42,10 @@
         display: none;
     }
 
+    .home .stage p{
+        padding: 20px;
+    }
+
     .banner{
         flex-direction: column;
     }
@@ -54,6 +62,7 @@
         .bannPage h2{
             font-size: 1.5em;
             font-weight: 200;
+            padding-top: 50px !important;
         }
 
         .bannPage .underline{
@@ -91,7 +100,7 @@
 
     /* video */
     .video h3{
-        font-size: 1.4em;
+        font-size: 1.6em;
     }
 
     .list-video .item {
@@ -109,7 +118,7 @@
 
     /* realisation */
     .realisation h3{
-        font-size: 1.4em;
+        font-size: 1.6em;
     }
 
     .list-realisation .item {

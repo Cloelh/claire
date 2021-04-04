@@ -98,8 +98,8 @@
             </div>
         </div>
 
-          <!-- Web TV -->
-          <div class="item d-flex justify-content-between mt-5">
+        <!-- Web TV -->
+        <div class="item d-flex justify-content-between mt-5">
             <div class="lien-video">
                 <iframe
                     width="560"
@@ -113,6 +113,42 @@
             <div class="text mt-3 col-4">
                 <h3>Web TV.</h3>
                 <p>Web TV réalisée dans le studio de l'IUT, dans le cadre d'un cours d'audiovisuel. </p>
+            </div>
+        </div>
+
+        <!-- Petits voisins entre secrets -->
+        <div class="item d-flex justify-content-between mt-5">
+            <div class="lien-video">
+            <iframe 
+                width="560" 
+                height="315" 
+                src="https://www.youtube.com/embed/ZO-vI39IAmI" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen></iframe>
+            </div>
+            <div class="text mt-3 col-4">
+                <h3>Petits voisins entre secrets</h3>
+                <p>Court métrage réalisé dans le cadre de mes études. Prix de la technique à l'occasion d'un concours ? </p>
+            </div>
+        </div>
+
+        <!-- Dessin animé  -->
+        <div class="item d-flex justify-content-between mt-5">
+            <div class="lien-video">
+            <iframe 
+                width="560" 
+                height="315" 
+                src="https://www.youtube.com/embed/LQQorNRsdtY" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen></iframe>
+            </div>
+            <div class="text mt-3 col-4">
+                <h3>Dessin animé </h3>
+                <p>bla bla bla bla</p>
             </div>
         </div>
     </div>

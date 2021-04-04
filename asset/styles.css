@@ -32,6 +32,15 @@
     font-family: "LemonMilk", Helvetica;
     background-color: #151515;
 }
+    .footer a i{
+        color: white;
+        font-size: 1.3em;
+    }
+
+    .footer a:hover i{
+        color: #7877E6;
+        font-size: 1.3em;
+    }
 
 .page{
     padding-bottom: 200px;
@@ -95,7 +104,17 @@ nav{
     margin-bottom: 120px;
 }
 
+.home h1 span p{
+    z-index: 999;
+}
 
+.home .stage{
+    margin-top: 100px;
+}
+
+    .stage p{
+        padding: 50px;
+    }
 
 /* PAGE */
 .bannPage{
@@ -111,6 +130,16 @@ nav{
         height: 2px;
         width: 70%;
         background-color: white;
+        animation: underline 1s ease-in;
+    }
+
+    @keyframes underline {
+        from{
+            width: 0%;
+        }
+        to{
+            width: 70%;
+        }
     }
 
 @media screen and (min-width: 1000px) {

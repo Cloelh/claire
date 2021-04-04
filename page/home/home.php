@@ -5,7 +5,14 @@
             <img src="asset/images/banner.png" width="350px">
         </div>
         <div class="d-flex flex-column align-content-center justify-content-center col-6">
-            <h1>Claire <br> Goossaert</h1>
+            <h1>
+                <span class="column">
+                    <p class="position-relative">Claire</p>
+                </span> 
+                <span class="column">
+                    <p class="position-relative">Goossaert</p>  
+                </span>
+            </h1>
             <p>Photographie, vidéo, graphisme.</p>
         </div>
     </div>
@@ -59,8 +66,28 @@
         </iframe>
     </div>
 
-    <div class="skill marge">
+    <div class="skill marge mb-5">
         <h3 class="d-flex w-100 justify-content-end">Compétences.</h3>
         <img src="asset/images/courbe.svg" width="100%" alt="vague" class="mt-5">
+    </div>
+
+    <div class="stage marge">
+        <div class="underline"></div>
+        <h3>Actuellement : ishot.</h3>
+        <p class="border border-1">
+            On sait depuis longtemps que travailler avec du 
+            texte lisible et contenant du sens est source de distractions, 
+            et empêche de se concentrer sur la mise en page elle-même. 
+            L'avantage du Lorem Ipsum sur un texte générique comme 'Du 
+            texte. Du texte. Du texte.' est qu'il possède une distribution de 
+            lettres plus ou moins normale, et en tout cas comparable avec celle 
+            du français standard. De nombreuses suites logicielles de mise en page 
+            ou éditeurs de sites Web ont fait du Lorem Ipsum leur faux texte par défaut, 
+            et une recherche pour 'Lorem Ipsum' vous conduira vers de nombreux 
+            sites qui n'en sont encore qu'à leur phase de construction. Plusieurs 
+            versions sont apparues avec le temps, parfois par accident, souvent
+            intentionnellement (histoire d'y rajouter de petits clins d'oeil, 
+            voire des phrases embarassantes).
+        </p>
     </div>
 </div>

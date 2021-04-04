@@ -10,8 +10,8 @@
             <p><a href="mailto:Claire.goossaert@gmail.com"><i class="far fa-envelope"></i> Claire.goossaert@gmail.com</a></p>
             <p><a href="tel:+33675981307"><i class="fas fa-phone"></i> 06.75.98.13.07</a></p>
 
-            <p><a href="https://www.youtube.com/channel/UCHvN09PDdsTbXFDdU4-7dEg"><i class="fab fa-youtube"></i> Chaîne YouTube.</a></p>
-            <p><a href="https://www.instagram.com/claireg_art/"><i class="fab fa-instagram"></i> @claireg_art</a></p>
+            <p><a target="_BLANK" href="https://www.youtube.com/channel/UCHvN09PDdsTbXFDdU4-7dEg"><i class="fab fa-youtube"></i> Chaîne YouTube.</a></p>
+            <p><a target="_BLANK" href="https://www.instagram.com/clairephotographie/"><i class="fab fa-instagram"></i> @clairephotographie</a></p>
         </div>
         <div class="image me-5">
             <img src="asset/images/photo.png" alt="photo de claire" height="300px">
